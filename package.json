@@ -19,8 +19,8 @@
   "scripts": {
     "build": "microbundle",
     "dev": "microbundle watch",
-    "pretest": "npm run build",
-    "prepublish": "npm run build",
+    "pretest": "yarn run build",
+    "prepublish": "yarn run build",
     "test": "jest"
   },
   "bugs": {
