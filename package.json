@@ -11,7 +11,7 @@
   "types": "./dist/index.d.ts",
   "amdName": "PLANNINGCENTER.url",
   "repository": "https://github.com/planningcenter/design.git",
-  "author": "Michael Chan <mijoch@gmail.com>",
+  "author": "Front End Systems Engineering <frontend@planningcenter.com>",
   "license": "MIT",
   "files": [
     "dist"
@@ -24,11 +24,10 @@
     "test": "jest"
   },
   "bugs": {
-    "url": "https://github.com/planningcenter/design/issues"
+    "url": "https://github.com/planningcenter/url/issues"
   },
-  "homepage": "https://github.com/planningcenter/design/blob/master/packages/url/README.md",
+  "homepage": "https://github.com/planningcenter/url",
   "private": false,
-  "gitHead": "ebc341be61721088b5b864f66198e4d3926ef34e",
   "devDependencies": {
     "jest": "^26.6.3",
     "microbundle": "^0.13.0"
